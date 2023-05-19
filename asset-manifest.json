@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.cda09709.css",
-    "main.js": "/static/js/main.e14cc512.js",
+    "main.css": "/static/css/main.c8499a3f.css",
+    "main.js": "/static/js/main.43b77cbb.js",
     "static/media/MaplestoryBold.woff2": "/static/media/MaplestoryBold.9ead221f86f195ce5cc2.woff2",
     "static/media/MaplestoryLight.woff2": "/static/media/MaplestoryLight.40f01fff848530bc8f98.woff2",
     "static/media/MaplestoryBold.ttf": "/static/media/MaplestoryBold.e39287220e971b277c0e.ttf",
@@ -11,11 +11,11 @@
     "static/media/css_sprites.png": "/static/media/css_sprites.b029151c6237a955b680.png",
     "static/media/sesame_logo.png": "/static/media/sesame_logo.b6c85fe0ec0f577ac261.png",
     "index.html": "/index.html",
-    "main.cda09709.css.map": "/static/css/main.cda09709.css.map",
-    "main.e14cc512.js.map": "/static/js/main.e14cc512.js.map"
+    "main.c8499a3f.css.map": "/static/css/main.c8499a3f.css.map",
+    "main.43b77cbb.js.map": "/static/js/main.43b77cbb.js.map"
   },
   "entrypoints": [
-    "static/css/main.cda09709.css",
-    "static/js/main.e14cc512.js"
+    "static/css/main.c8499a3f.css",
+    "static/js/main.43b77cbb.js"
   ]
 }
