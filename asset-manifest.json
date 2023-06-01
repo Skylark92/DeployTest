@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.906f0eed.css",
-    "main.js": "/static/js/main.4b85f58e.js",
+    "main.css": "/static/css/main.324d482d.css",
+    "main.js": "/static/js/main.393f9705.js",
     "static/media/MaplestoryBold.ttf": "/static/media/MaplestoryBold.e39287220e971b277c0e.ttf",
     "static/media/MaplestoryLight.ttf": "/static/media/MaplestoryLight.9d9497585053c96c8082.ttf",
     "static/media/MaplestoryBold.woff": "/static/media/MaplestoryBold.3c6b0c31aef4b7188029.woff",
@@ -13,7 +13,7 @@
     "index.html": "/index.html"
   },
   "entrypoints": [
-    "static/css/main.906f0eed.css",
-    "static/js/main.4b85f58e.js"
+    "static/css/main.324d482d.css",
+    "static/js/main.393f9705.js"
   ]
 }
