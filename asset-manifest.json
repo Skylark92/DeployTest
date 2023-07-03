@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.3492912e.css",
-    "main.js": "/static/js/main.dfe3c584.js",
+    "main.css": "/static/css/main.eaf14223.css",
+    "main.js": "/static/js/main.7f13b6ea.js",
     "static/media/css_sprites.png": "/static/media/css_sprites.b029151c6237a955b680.png",
     "static/media/sesame_logo.png": "/static/media/sesame_logo.b6c85fe0ec0f577ac261.png",
     "index.html": "/index.html",
     "static/media/modify-pencil.svg": "/static/media/modify-pencil.0d574f5cf7f2b4f8b99d60213e2be451.svg"
   },
   "entrypoints": [
-    "static/css/main.3492912e.css",
-    "static/js/main.dfe3c584.js"
+    "static/css/main.eaf14223.css",
+    "static/js/main.7f13b6ea.js"
   ]
 }
