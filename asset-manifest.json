@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.2393fabf.css",
-    "main.js": "/static/js/main.7f13b6ea.js",
+    "main.js": "/static/js/main.1138e92c.js",
     "static/media/css_sprites.png": "/static/media/css_sprites.b029151c6237a955b680.png",
     "static/media/sesame_logo.png": "/static/media/sesame_logo.b6c85fe0ec0f577ac261.png",
     "index.html": "/index.html",
@@ -9,6 +9,6 @@
   },
   "entrypoints": [
     "static/css/main.2393fabf.css",
-    "static/js/main.7f13b6ea.js"
+    "static/js/main.1138e92c.js"
   ]
 }
