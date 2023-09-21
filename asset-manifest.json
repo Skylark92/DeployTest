@@ -1,13 +1,15 @@
 {
   "files": {
-    "main.js": "/static/js/main.1a02373e.js",
+    "main.js": "/static/js/main.cc947a4e.js",
     "static/media/survey-icon-sprites.png": "/static/media/survey-icon-sprites.0499f441e9b7b75278cc.png",
     "static/media/profile-image-sprites.png": "/static/media/profile-image-sprites.bc5f7a00035027b5b0aa.png",
+    "static/media/loading-sprites.png": "/static/media/loading-sprites.a46da82444bca5bc0c44.png",
+    "static/media/loading-indicator.gif": "/static/media/loading-indicator.9cbb4c0bcca72ee430f7.gif",
     "index.html": "/index.html",
     "static/media/modify-icon.svg": "/static/media/modify-icon.30aea9b9cad245f3b3a22230f38e5ad7.svg",
     "static/media/X-icon.svg": "/static/media/X-icon.9c3eeae3c117791d7effcdd2b68a9dab.svg"
   },
   "entrypoints": [
-    "static/js/main.1a02373e.js"
+    "static/js/main.cc947a4e.js"
   ]
 }
